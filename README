@@ -1,0 +1,66 @@
+# Job Listing UI (React + Vite)
+
+A modern and responsive job listing interface built using React and Vite. This project showcases a clean UI for browsing job opportunities with role details, company branding, salary, and quick apply actions.
+
+---
+
+## Features
+
+* Clean and minimal card-based UI
+* Company logos and job roles
+*  Job details (type, level, salary, location)
+* Save/bookmark option (UI)
+* Fast performance with Vite
+*  Responsive design (works across screen sizes)
+
+---
+
+## 🛠️ Tech Stack
+
+* **Frontend:** React.js
+* **Build Tool:** Vite
+* **Styling:** CSS / Tailwind
+* **Package Manager:** npm
+
+---
+
+##  Project Structure
+
+```
+├── public/
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── package.json
+├── vite.config.js
+```
+
+---
+
+##Installation & Setup
+
+
+```
+1. Install dependencies:
+
+```
+npm install
+```
+
+2. Run the development server:
+
+```
+npm run dev
+
+
+
+## Future Improvements
+
+Search & filter functionality
+Authentication system
+Backend integration (real job APIs)
+Save jobs functionality (with state/database)
+Dark mode toggle
